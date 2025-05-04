@@ -89,7 +89,7 @@ Random Forest Classifier emerged as the best performing model with:
 3. Final predictions are saved in `gender_submission_by_random-forest.csv`
 
 ## Author
-Manik
+Sai Ruthvik Munugoti
 
 ## License
 This project is licensed under the MIT License
